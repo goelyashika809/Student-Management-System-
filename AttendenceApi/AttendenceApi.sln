@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttendenceApi", "AttendenceApi.csproj", "{062CF8C2-BA57-4172-A60E-9429020A2216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitStudentTestProject", "..\NUnitStudentTestProject\NUnitStudentTestProject.csproj", "{F5A51E7C-ECE1-4D42-B2D9-4ECC091E9C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062CF8C2-BA57-4172-A60E-9429020A2216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062CF8C2-BA57-4172-A60E-9429020A2216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062CF8C2-BA57-4172-A60E-9429020A2216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062CF8C2-BA57-4172-A60E-9429020A2216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A51E7C-ECE1-4D42-B2D9-4ECC091E9C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A51E7C-ECE1-4D42-B2D9-4ECC091E9C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A51E7C-ECE1-4D42-B2D9-4ECC091E9C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A51E7C-ECE1-4D42-B2D9-4ECC091E9C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04DDE445-80D9-40F4-8737-20CE1113E9F3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.AssemblyInfo.cs
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ACER\source\repos\StudentMgmtProject1\obj\Debug\netcoreapp3.1\StudentApi.MvcApplicationPartsAssemblyInfo.cache
